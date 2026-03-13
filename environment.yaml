@@ -1,0 +1,16 @@
+name: d200-mtl
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy>=1.26
+  - pandas>=2.1
+  - matplotlib>=3.8
+  - scikit-learn>=1.4
+  - joblib>=1.3
+  - jupyter
+  - pip
+  - pip:
+      - torch>=2.1
