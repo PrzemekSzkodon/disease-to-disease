@@ -1,14 +1,3 @@
-# Raw data — download instructions in data.ipynb
-raw_nhanes/
-NHANES_data.csv
-
-# Local folders
-outputs_unofficial/
-reading/
-
-# Personal notebooks
-q_and_a.ipynb
-
 # Jupyter
 .ipynb_checkpoints/
 
